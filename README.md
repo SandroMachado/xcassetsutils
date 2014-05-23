@@ -12,4 +12,7 @@ This is a simple script that can be used to restore all the images extracted pre
 
 ./restoreImages.sh < path to the directory where the *.xcassets is placed and the output folder >
 	
+	
+Attention: Doesn't work if you have two files with the same name in .xcassets folder
+	
 -- Sandro Machado
